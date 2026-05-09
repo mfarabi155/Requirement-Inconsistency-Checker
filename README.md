@@ -127,7 +127,7 @@ The system supports both **Bahasa Indonesia** and **English**, including mixed-l
 
 ### Installation
 ```bash
-git clone https://github.com/username/requirement-inconsistency-checker.git
+git clone https://github.com/mfarabi155/Requirement-Inconsistency-Checker
 cd requirement-inconsistency-checker
 ```
 
